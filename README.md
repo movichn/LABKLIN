@@ -1,3 +1,2 @@
 # tester
-justme
-SASS
+hANYA Uji Coba
